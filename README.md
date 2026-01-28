@@ -1,7 +1,7 @@
 ![d241d1214f4245ab1024c86a0059e84d-ezgif com-crop](https://github.com/user-attachments/assets/91eb12ac-a52d-473c-9ab7-9f0caae13602)
 # 💫 About Me:
 💫 About Me:<br>Hey, I'm Taniya Halder 👋<br>I'm a first-year BS in Data Science student at IIT Madras, currently juggling<br>AI/ML 🤖, mern‑stack web dev 💻, and cybersecurity 🔐 because focusing on one thing is clearly not my personality type.<br>I like breaking things to understand them, then rebuilding them cleaner 🏗️.<br>If you see messy repos here, that's just work-in-progress brain dumps 🧠, not abandoned dreams (hopefully) 🤞
-<img src=![581241b61e665a573192a0a0361771ec](https://github.com/user-attachments/assets/1c4c7a6c-3f5b-4f09-a444-0b7cbb56e90a) align="right" width="150" alt="Cat Money" />
+<img src="https://github.com/taniyahalder272006-a11y/taniyahalder272006-a11y/issues/1#issue-3866306305" align="right" width="150" alt="Cat Money" />
 
 
 ## 🌐 Socials:
