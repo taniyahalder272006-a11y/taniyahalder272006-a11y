@@ -1,5 +1,4 @@
-![banner](https://github.com/user-attachments/assets/734b7301-b900-423c-ad7a-ae98b446e3dc)
-
+![d241d1214f4245ab1024c86a0059e84d](https://github.com/user-attachments/assets/efb43538-1b85-4660-9d22-878ed600e84e)
 ### Hey, I'm Taniya Halder 👋  
 
 I'm a first-year BS in Data Science student at IIT Madras, currently juggling  
