@@ -29,7 +29,8 @@ Hey, I'm Taniya Halder 👋<br>I'm a first-year BS in Data Science student at II
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taniyahalder272006-a11y&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=ff006e&text_color=eee&layout=compact)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=taniyahalder272006-a11y&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=taniyahalder272006-a11y&theme=shades-of-purple&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 ### ✍️ Random Dev Quote;
