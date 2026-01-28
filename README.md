@@ -3,7 +3,7 @@
 ### Hey, I'm Taniya Halder 👋  
 
 I'm a first-year BS in Data Science student at IIT Madras, currently juggling  
-**AI/ML 🤖, full‑stack web dev 💻, and cybersecurity 🔐** because focusing on one thing is clearly not my personality type.
+**AI/ML 🤖, mern‑stack web dev 💻, and cybersecurity 🔐** because focusing on one thing is clearly not my personality type.
 
 🎯 Goals: 
 - 🌱 Learning: Python 🐍, ML basics 📊, HTML/CSS/JS 🎨, and slowly making peace with math 📐  
