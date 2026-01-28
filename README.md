@@ -7,9 +7,7 @@
 
 ## 🌐 Socials:
 <p align="left">
-  <a href="https://www.instagram.com/cocopie.me/" target="_blank" rel="noreferrer">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=40&theme=brand" alt="Instagram" />
-  </a>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=40&reverseBackground=true&shape=circle" />
   <a href="https://www.kaggle.com/taniyahalder" target="_blank" rel="noreferrer">
     <img src="https://www.readmecodegen.com/api/social-icon?name=kaggle&size=40&theme=brand" alt="Kaggle" />
   </a>
