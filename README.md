@@ -1,8 +1,7 @@
 ![d241d1214f4245ab1024c86a0059e84d-ezgif com-crop](https://github.com/user-attachments/assets/91eb12ac-a52d-473c-9ab7-9f0caae13602)
 
 # 💫 About Me:
-Hey, I'm Taniya Halder 👋<br>I'm a first-year BS in Data Science student at IIT Madras, currently juggling<br>AI/ML 🤖, mern‑stack web dev 💻, and cybersecurity 🔐 because focusing on one thing is clearly not my personality type.
-<br>I like breaking things to understand them, then rebuilding them cleaner 🏗️.<br>If you see messy repos here, that's just work-in-progress brain dumps 🧠, not abandoned dreams (hopefully) 🤞
+💫 About Me:<br>Hey, I'm Taniya Halder 👋<br>I'm a first-year BS in Data Science student at IIT Madras, currently juggling<br>AI/ML 🤖, mern‑stack web dev 💻, and cybersecurity 🔐 because focusing on one thing is clearly not my personality type.<br>I like breaking things to understand them, then rebuilding them cleaner 🏗️.<br>If you see messy repos here, that's just work-in-progress brain dumps 🧠, not abandoned dreams (hopefully) 🤞
 
 
 ## 🌐 Socials:
@@ -28,17 +27,15 @@ Hey, I'm Taniya Halder 👋<br>I'm a first-year BS in Data Science student at II
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taniyahalder272006-a11y&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=ff006e&text_color=eee&layout=compact)
 
+
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=taniyahalder272006-a11y&theme=shades-of-purple&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=taniyahalder272006-a11y&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-### ✍️ Random Dev Quote;
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo:
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=taniyahalder272006-a11y&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=taniyahalder272006-a11y&icon=4&color=5)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=taniyahalder272006-a11y&icon=0&color=0)](https://visitcount.itsvg.in)
