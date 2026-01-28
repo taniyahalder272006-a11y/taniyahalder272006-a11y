@@ -7,18 +7,19 @@
 ## 🌐 Socials:
 <p align="left">
   <a href="https://www.instagram.com/cocopie.me/" target="_blank" rel="noreferrer">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=40&theme=dark" alt="Instagram" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=40&theme=brand" alt="Instagram" />
   </a>
   <a href="https://www.kaggle.com/taniyahalder" target="_blank" rel="noreferrer">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=kaggle&size=40&theme=dark" alt="Kaggle" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=kaggle&size=40&theme=brand" alt="Kaggle" />
   </a>
   <a href="https://www.linkedin.com/in/taniya-h/" target="_blank" rel="noreferrer">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=40&theme=dark" alt="LinkedIn" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=40&theme=brand" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/Taniya_h/" target="_blank" rel="noreferrer">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=40&theme=dark" alt="LeetCode" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=40&theme=brand" alt="LeetCode" />
   </a>
 </p>
+
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
