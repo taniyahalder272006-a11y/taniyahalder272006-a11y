@@ -1,13 +1,13 @@
 ![d241d1214f4245ab1024c86a0059e84d-ezgif com-crop](https://github.com/user-attachments/assets/91eb12ac-a52d-473c-9ab7-9f0caae13602)
-<img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=40&reverseBackground=true&shape=circle" />
-
 # 💫 About Me:
 💫 About Me:<br>Hey, I'm Taniya Halder 👋<br>I'm a first-year BS in Data Science student at IIT Madras, currently juggling<br>AI/ML 🤖, mern‑stack web dev 💻, and cybersecurity 🔐 because focusing on one thing is clearly not my personality type.<br>I like breaking things to understand them, then rebuilding them cleaner 🏗️.<br>If you see messy repos here, that's just work-in-progress brain dumps 🧠, not abandoned dreams (hopefully) 🤞
 
 
 ## 🌐 Socials:
 <p align="left">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=40&reverseBackground=true&shape=circle" />
+ <a href="https://www.instagram.com/cocopie.me/" target="_blank" rel="noreferrer">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=40&reverseBackground=true&shape=circle" />
+  </a>
   <a href="https://www.kaggle.com/taniyahalder" target="_blank" rel="noreferrer">
     <img src="https://www.readmecodegen.com/api/social-icon?name=kaggle&size=40&theme=brand" alt="Kaggle" />
   </a>
