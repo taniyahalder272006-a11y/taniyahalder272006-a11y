@@ -5,7 +5,6 @@
 
 
 ## 🌐 Socials:
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.instagram.com/cocopie.me/" target="_blank" rel="noreferrer">
     <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=40&theme=dark" alt="Instagram" />
