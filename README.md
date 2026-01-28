@@ -1,16 +1,15 @@
-## Hi there 👋
+![banner](https://github.com/user-attachments/assets/734b7301-b900-423c-ad7a-ae98b446e3dc)
 
-<!--
-**taniyahalder272006-a11y/taniyahalder272006-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey, I'm Taniya Halder 👋  
 
-Here are some ideas to get you started:
+I'm a first-year BS in Data Science student at IIT Madras, currently juggling  
+**AI/ML 🤖, full‑stack web dev 💻, and cybersecurity 🔐** because focusing on one thing is clearly not my personality type.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goals: 
+- 🌱 Learning: Python 🐍, ML basics 📊, HTML/CSS/JS 🎨, and slowly making peace with math 📐  
+- 🧠 Interests: Cybersecurity, AI security 🛡️(red‑teaming 🎯), MERN stack ⚛️, open‑source 🌍, and building stuff that actually ships 🚀
+- Short term: strong dev foundations 💪 + real projects (not just tutorial hell 😅)   
+
+I like breaking things 🔨 to understand them, then rebuilding them cleaner 🏗️.  
+If you see messy repos here, that's just **work-in-progress brain dumps** 🧠, not abandoned dreams (hopefully) 🤞
+
