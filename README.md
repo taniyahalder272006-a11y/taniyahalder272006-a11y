@@ -20,15 +20,16 @@ Hey, I'm Taniya Halder 👋<br>I'm a first-year BS in Data Science student at II
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
 </p>
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taniyahalder272006-a11y&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=taniyahalder272006-a11y&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taniyahalder272006-a11y&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taniyahalder272006-a11y&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=ff006e&text_color=eee&icon_color=00f5ff)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=taniyahalder272006-a11y&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taniyahalder272006-a11y&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=ff006e&text_color=eee&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=taniyahalder272006-a11y&theme=shades-of-purple&no-frame=false&no-bg=false&margin-w=4)
-
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=taniyahalder272006-a11y&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
 
 ### ✍️ Random Dev Quote;
