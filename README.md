@@ -34,6 +34,7 @@ Hey, I'm Taniya Halder 👋<br>I'm a first-year BS in Data Science student at II
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=taniyahalder272006-a11y&theme=shades-of-purple&no-frame=false&no-bg=false&margin-w=4)
 
 
+
 ### ✍️ Random Dev Quote;
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
