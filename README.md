@@ -2,8 +2,7 @@
 
 # 💫 About Me:
 Hey, I'm Taniya Halder 👋<br>I'm a first-year BS in Data Science student at IIT Madras, currently juggling<br>AI/ML 🤖, mern‑stack web dev 💻, and cybersecurity 🔐 because focusing on one thing is clearly not my personality type.
-
-<br><br>I like breaking things to understand them, then rebuilding them cleaner 🏗️.<br>If you see messy repos here, that's just work-in-progress brain dumps 🧠, not abandoned dreams (hopefully) 🤞
+<br>I like breaking things to understand them, then rebuilding them cleaner 🏗️.<br>If you see messy repos here, that's just work-in-progress brain dumps 🧠, not abandoned dreams (hopefully) 🤞
 
 
 ## 🌐 Socials:
