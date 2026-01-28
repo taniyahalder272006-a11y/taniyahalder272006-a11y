@@ -5,6 +5,6 @@
 I'm a first-year BS in Data Science student at IIT Madras, currently juggling  
 **AI/ML 🤖, mern‑stack web dev 💻, and cybersecurity 🔐** because focusing on one thing is clearly not my personality type.
 
-I like breaking things 🔨 to understand them, then rebuilding them cleaner 🏗️.  
+I like breaking things to understand them, then rebuilding them cleaner 🏗️.  
 If you see messy repos here, that's just **work-in-progress brain dumps** 🧠, not abandoned dreams (hopefully) 🤞
 
