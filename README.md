@@ -37,9 +37,7 @@
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taniya-H&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=ff006e&text_color=eee&icon_color=00f5ff)
-
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Taniya-H&theme=dark&hide_border=false)<br/>
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taniya-H&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=ff006e&text_color=eee&layout=compact)
 
 
@@ -51,6 +49,4 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Taniya-H&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=taniyahalder272006-a11y&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Taniya-H&icon=0&color=0)](https://visitcount.itsvg.in)
