@@ -35,14 +35,15 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
 </p>
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taniya-H&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=ff006e&text_color=eee&icon_color=00f5ff)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Taniya-H&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taniya-H&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=ff006e&text_color=eee&layout=compact)
+## 📊 Github Stats:
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Taniya-H&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=ff006e&text_color=eee&icon_color=00f5ff)](https://github.com/Taniya-H)
 
+[![Github Streak](https://nirzak-streak-stats.vercel.app/?user=Taniya-H&theme=dark&hide_border=false)](https://github.com/Taniya-H)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Taniya-H&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taniya-H&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=ff006e&text_color=eee&layout=compact)](https://github.com/Taniya-H)
+
+## 🏆 Github Trophies
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Taniya-H&theme=radical&no_frame=false&no_bg=true&margin=4)](https://github.com/Taniya-H)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
