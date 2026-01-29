@@ -36,11 +36,11 @@
 </p>
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taniyahalder272006-a11y&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=ff006e&text_color=eee&icon_color=00f5ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taniya-H&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=ff006e&text_color=eee&icon_color=00f5ff)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=taniyahalder272006-a11y&theme=dark&hide_border=false)<br/>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Taniya-H&theme=dark&hide_border=false)<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taniyahalder272006-a11y&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=ff006e&text_color=eee&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taniya-H&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=ff006e&text_color=eee&layout=compact)
 
 
 ## 🏆 GitHub Trophies
